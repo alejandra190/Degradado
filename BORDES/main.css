@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+}
+
+.contenedor{
+    width: 200px;
+    height: 200px;
+    border: 10px dotted chocolate;
+    background-color: slateblue ;
+    margin-bottom: 15px;
+}
+
+.contenedor1{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    border: 8px dashed rgb(24, 116, 91);
+    background-color: #AD99C8;
+    margin-bottom: 15px;
+}
+
+.contenedor1{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    border: 8px dashed #9E1233;
+    background-color: #7E539C;
+    margin-bottom: 15px;
+}
+
+.contenedor2{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    border: 8px dashed #02B5A0;
+    background-color: chartreuse;
+    margin-bottom: 15px;
+}
+
+.contenedor3{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    border: 8px dashed#00FFFF;
+    background-color: #93278F;
+    margin-bottom: 15px;
+}
